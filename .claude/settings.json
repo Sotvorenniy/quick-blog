@@ -1,0 +1,8 @@
+{
+  "enabledPlugins": {
+    "research-tools@ai-market": true,
+    "sdd-engineering@ai-market": true,
+    "engineering-paved-path@ai-market": true,
+    "architecture-review@ai-market": true
+  }
+}
